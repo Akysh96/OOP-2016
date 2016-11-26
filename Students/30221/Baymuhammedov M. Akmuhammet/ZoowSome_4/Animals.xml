@@ -1,0 +1,149 @@
+<?xml version="1.0"?><content>
+<Animal>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Goat</name>
+	<maintenanceCost>0.5</maintenanceCost>
+	<dangerPerc>0.4</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<furrPerc>100.0</furrPerc>
+	<bodyTemp>120</bodyTemp>
+	<Discrimininant>Goat</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Cow</name>
+	<maintenanceCost>0.7</maintenanceCost>
+	<dangerPerc>0.3</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<furrPerc>100.0</furrPerc>
+	<bodyTemp>100</bodyTemp>
+	<Discrimininant>Cow</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Panda</name>
+	<maintenanceCost>0.6</maintenanceCost>
+	<dangerPerc>0.4</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<furrPerc>100.0</furrPerc>
+	<bodyTemp>140</bodyTemp>
+	<Discrimininant>Panda</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>6</nrOfLegs>
+	<name>Cockroach</name>
+	<maintenanceCost>0.2</maintenanceCost>
+	<dangerPerc>0.0</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<CanFly>false</CanFly>
+	<isDangerous>false</isDangerous>
+	<Discrimininant>Cockroach</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>6</nrOfLegs>
+	<name>Beetle</name>
+	<maintenanceCost>0.3</maintenanceCost>
+	<dangerPerc>0.2</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<CanFly>true</CanFly>
+	<isDangerous>false</isDangerous>
+	<Discrimininant>Beetle</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>6</nrOfLegs>
+	<name>Ant</name>
+	<maintenanceCost>0.5</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<CanFly>false</CanFly>
+	<isDangerous>false</isDangerous>
+	<Discrimininant>Ant</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>2</nrOfLegs>
+	<name>Nightingale</name>
+	<maintenanceCost>0.2</maintenanceCost>
+	<dangerPerc>0.0</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<flightAttitude>1000</flightAttitude>
+	<Discrimininant>Nightingale</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>2</nrOfLegs>
+	<name>Hawk</name>
+	<maintenanceCost>0.4</maintenanceCost>
+	<dangerPerc>0.7</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<flightAttitude>10000</flightAttitude>
+	<Discrimininant>Hawk</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>2</nrOfLegs>
+	<name>Penguin</name>
+	<maintenanceCost>0.4</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<flightAttitude>0</flightAttitude>
+	<Discrimininant>Penguin</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Whale</name>
+	<maintenanceCost>0.3</maintenanceCost>
+	<dangerPerc>0.6</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<swimDepth>1000</swimDepth>
+	<isDangerous>false</isDangerous>
+	<Discrimininant>Whale</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Shark</name>
+	<maintenanceCost>0.6</maintenanceCost>
+	<dangerPerc>1.0</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<swimDepth>1000</swimDepth>
+	<isDangerous>true</isDangerous>
+	<Discrimininant>Shark</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Dolphin</name>
+	<maintenanceCost>0.5</maintenanceCost>
+	<dangerPerc>0.0</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<swimDepth>1000</swimDepth>
+	<isDangerous>false</isDangerous>
+	<Discrimininant>Dolphin</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Snake</name>
+	<maintenanceCost>0.2</maintenanceCost>
+	<dangerPerc>0.9</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<canSwim>true</canSwim>
+	<isDangerous>true</isDangerous>
+	<Discrimininant>Snake</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Lizard</name>
+	<maintenanceCost>0.2</maintenanceCost>
+	<dangerPerc>0.6</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<canSwim>false</canSwim>
+	<isDangerous>false</isDangerous>
+	<Discrimininant>Lizard</Discrimininant>
+</Animal>
+<Animal>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Chameleon</name>
+	<maintenanceCost>0.8</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<canSwim>false</canSwim>
+	<isDangerous>false</isDangerous>
+	<Discrimininant>Chameleon</Discrimininant>
+</Animal>
+</content>
